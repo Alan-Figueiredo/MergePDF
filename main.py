@@ -21,5 +21,5 @@ def merger():
 def pdf_to_word():
     pass
 
-pdf_to_word()
+merger()
 
